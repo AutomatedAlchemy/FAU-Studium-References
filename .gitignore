@@ -4,6 +4,7 @@
 .claude/
 .gemini-cli/
 .cli-agent/
+CLAUDE.md
 
 # ===== KDE/Dolphin =====
 .directory
