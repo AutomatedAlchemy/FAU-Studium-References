@@ -40,6 +40,5 @@ Contributions are highly encouraged and enthusiastically reviewed.
 If you feel like the list is lacking certain links or information, please feel free to open a pull request or describe your idea via an issue at:
 https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose
 
-
-
-# Enjoy your study 🥰
+---
+> Enjoy your study 🥰
