@@ -41,4 +41,5 @@ If you feel like the list is lacking certain links or information, please feel f
 https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose
 
 
+
 # Enjoy your study 🥰
