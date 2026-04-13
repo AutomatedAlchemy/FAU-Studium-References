@@ -6,7 +6,7 @@ Essential links and tools for FAU (Friedrich-Alexander-Universität Erlangen-Nü
 
 ## Essential FAU Links
 
-A handpicked list of useful links for FAU students, specifically with KI-Materialtechnologie/NAT students in mind.
+A curated list of useful links for FAU students.
 
 ### Daily Essentials
 
@@ -33,12 +33,8 @@ A handpicked list of useful links for FAU students, specifically with KI-Materia
 *   **Opinionated recommendation: Pick some sports course (best done before the start of a semester)**  
     https://www.anmeldung.sport.uni-erlangen.de/hsp/sportarten/aktueller_zeitraum_0
 
----
 
-## StudOn Auto-Downloader
+## Contributing
 
-The automated StudOn course material scraper has moved to its own directory: [`../studon-scraper/`](../studon-scraper/)
-
----
-
-**Made with ❤️ for FAU students**
+Contributions are highly encouraged and enthusiastically reviewed.
+If you feel like the list is lacking certain links or information, please feel free to open a pull request or describe you idea in an (Issue)[https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose].
