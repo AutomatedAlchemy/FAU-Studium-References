@@ -37,4 +37,8 @@ A curated list of useful links for FAU students.
 ## Contributing
 
 Contributions are highly encouraged and enthusiastically reviewed.
-If you feel like the list is lacking certain links or information, please feel free to open a pull request or describe you idea in  an Issue at: https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose
+If you feel like the list is lacking certain links or information, please feel free to open a pull request or describe your idea via an issue at:
+https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose
+
+
+# Enjoy your study 🥰
