@@ -1,4 +1,4 @@
-# FAU Student Resources
+# FAU TechFak Student Resources
 
 > A personal project by a KI-Materialtechnologie student. Not affiliated with or endorsed by FAU.
 
@@ -44,7 +44,7 @@ This list is intentionally scoped to TechFak day-to-day flows. Resources for oth
 
 If you have suggestions for TechFak-related tools or links — or want to add a section for your own faculty — open a pull request or describe the idea at:
 
-https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose
+https://github.com/AutomatedAlchemy/FAU-TechFak-References/issues/new/choose
 
 ---
 
