@@ -1,44 +1,51 @@
-# FAU Student Resources
+# FAU TechFak Student Resources
 
 > A personal project by a KI-Materialtechnologie student. Not affiliated with or endorsed by FAU.
 
-Essential links and tools for FAU (Friedrich-Alexander-Universität Erlangen-Nürnberg) students.
+Essential links and tools focused on the daily operations and study planning for the engineering campus (Technische Fakultät).
 
-## Essential FAU Links
+## Daily Essentials
 
-A curated list of useful links for FAU students.
+- **Südmensa Weekly Menu** (often changes spontaneously)  
+  https://www.werkswelt.de/?id=sued
+- **TB TechFak (Library)**  
+  https://ub.fau.de/standorte/technisch-naturwissenschaftliche-zweigbibliothek-tb/
+- **Campo Timetable**  
+  https://www.campo.fau.de/qisserver/pages/plan/individualTimetable.xhtml?_flowId=individualTimetableSchedule-flow
+- **StudOn** (course materials, forums, submissions)  
+  https://www.studon.fau.de
 
-### Daily Essentials
+## Study Planning & Administration
 
-*   **Südmensa Weekly Menu** (often changes spontaneously)  
-    https://www.werkswelt.de/?id=sued
+- **Module Planner**  
+  https://www.campo.fau.de/qisserver/pages/startFlow.xhtml?_flowId=studyPlanner-flow
+- **Grade Overview**  
+  https://www.campo.fau.de/qisserver/pages/sul/examAssessment/personExamsReadonly.xhtml?_flowId=examsOverviewForPerson-flow
+- **FAU Personal Data Hub**  
+  https://www.idm.fau.de/go/profile/overview
 
-*   **Campo Timetable**  
-    https://www.campo.fau.de/qisserver/pages/plan/individualTimetable.xhtml?_flowId=individualTimetableSchedule-flow
+## First-Week Setup
 
-### Long-Term Study Planning
+- **RRZE Service Portal** (VPN, eduroam, mail forwarding, IdM)  
+  https://www.rrze.fau.de
 
-*   **Module Planner**  
-    https://www.campo.fau.de/qisserver/pages/startFlow.xhtml?_flowId=studyPlanner-flow
+## Community & Engagement
 
-*   **Grade Overview**  
-    https://www.campo.fau.de/qisserver/pages/sul/examAssessment/personExamsReadonly.xhtml?_flowId=examsOverviewForPerson-flow
+- **Mailinglist Subscriptions** (browse for relevant department or research group lists)  
+  https://www.idm.fau.de/go/mail/subscriptions
+- **FAU Sports Courses** (best registered for before semester start)  
+  https://www.anmeldung.sport.uni-erlangen.de/hsp/sportarten/aktueller_zeitraum_0
 
-*   **FAU personal data hub**  
-    https://www.idm.fau.de/go/profile/overview
+## Scope
 
-*   **Opinionated recommendation: Subscribe to some interesting FAU mailinglists**  
-    https://www.idm.fau.de/go/mail/subscriptions
-
-*   **Opinionated recommendation: Pick some sports course (best done before the start of a semester)**  
-    https://www.anmeldung.sport.uni-erlangen.de/hsp/sportarten/aktueller_zeitraum_0
-
+This list is intentionally scoped to TechFak day-to-day flows. Resources for other faculties (PhilFak, MedFak, ReWi, NatFak, …) are omitted on purpose — those are best curated by students who actually live in them. PRs from any faculty are welcome; sibling sections can be added under their own headings.
 
 ## Contributing
 
-Contributions are highly encouraged and enthusiastically reviewed.
-If you feel like the list is lacking certain links or information, please feel free to open a pull request or describe your idea via an issue at:
+If you have suggestions for TechFak-related tools or links — or want to add a section for your own faculty — open a pull request or describe the idea at:
+
 https://github.com/AutomatedAlchemy/FAU-Studium-References/issues/new/choose
 
 ---
+
 > Enjoy your study 🥰
