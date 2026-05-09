@@ -1,4 +1,4 @@
-# FAU TechFak Student Resources
+# FAU Student Resources
 
 > A personal project by a KI-Materialtechnologie student. Not affiliated with or endorsed by FAU.
 
