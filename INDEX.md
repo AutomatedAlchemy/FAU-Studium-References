@@ -12,4 +12,4 @@ Main repository overview with FAU student resources and essential links.
 
 ---
 
-The StudOn scraper tooling (`studon_scraper.py`, `setup_daily_sync.sh`, `SETUP.md`, `requirements.txt`, `.env.example`) has been moved to [`../studon-scraper/`](../studon-scraper/).
+The StudOn scraper tooling (`studon_client.py`, `setup_daily_sync.sh`, `SETUP.md`, `requirements.txt`, `.env.example`) has been moved to [`../studon-client/`](../studon-client/).
