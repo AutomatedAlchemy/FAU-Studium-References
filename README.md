@@ -1,6 +1,6 @@
-# FAU TechFak Student Resources
+# Resources
 
-> A personal project by a KI-Materialtechnologie student. Not affiliated with or endorsed by FAU.
+> A personal project by an AI - Materials Technology student. Not affiliated with or endorsed by FAU.
 
 Essential links and tools focused on the daily operations and study planning for the engineering campus (Technische Fakultät).
 
