@@ -1,6 +1,6 @@
-> An overview maintained by a student of AI–Materials Technology. Not affiliated with or endorsed by FAU.
+# Essential links and tools focused on the daily operations and study planning for the Technische Fakultät (engineering campus).
 
-Essential links and tools focused on the daily operations and study planning for the engineering campus (Technische Fakultät).
+> An overview maintained by a student of AI–Materials Technology. Not affiliated with or endorsed by FAU.
 
 ## Daily Essentials
 
